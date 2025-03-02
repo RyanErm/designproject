@@ -1,0 +1,352 @@
+State,Year,Count,Weapon
+Alabama,1998,343,Firearm
+Alabama,1999,15,Firearm
+Alabama,2000,235,Firearm
+Alabama,2001,347,Firearm
+Alabama,2002,292,Firearm
+Alabama,2003,295,Firearm
+Alabama,2004,253,Firearm
+Alaska,1998,42,Firearm
+Alaska,1999,56,Firearm
+Alaska,2000,35,Firearm
+Alaska,2001,39,Firearm
+Alaska,2002,41,Firearm
+Alaska,2003,44,Firearm
+Alaska,2004,44,Firearm
+Arizona,1998,396,Firearm
+Arizona,1999,424,Firearm
+Arizona,2000,385,Firearm
+Arizona,2001,448,Firearm
+Arizona,2002,446,Firearm
+Arizona,2003,482,Firearm
+Arizona,2004,458,Firearm
+Arkansas,1998,209,Firearm
+Arkansas,1999,151,Firearm
+Arkansas,2000,163,Firearm
+Arkansas,2001,147,Firearm
+Arkansas,2002,146,Firearm
+Arkansas,2003,157,Firearm
+Arkansas,2004,157,Firearm
+California,1998,2353,Firearm
+California,1999,2132,Firearm
+California,2000,2219,Firearm
+California,2001,2357,Firearm
+California,2002,2549,Firearm
+California,2003,2584,Firearm
+California,2004,2566,Firearm
+Colorado,1998,195,Firearm
+Colorado,1999,201,Firearm
+Colorado,2000,134,Firearm
+Colorado,2001,154,Firearm
+Colorado,2002,181,Firearm
+Colorado,2003,190,Firearm
+Colorado,2004,216,Firearm
+Connecticut,1998,144,Firearm
+Connecticut,1999,117,Firearm
+Connecticut,2000,100,Firearm
+Connecticut,2001,112,Firearm
+Connecticut,2002,86,Firearm
+Connecticut,2003,110,Firearm
+Connecticut,2004,103,Firearm
+Delaware,1998,24,Firearm
+Delaware,1999,25,Firearm
+Delaware,2000,27,Firearm
+Delaware,2001,29,Firearm
+Delaware,2002,30,Firearm
+Delaware,2003,21,Firearm
+Delaware,2004,28,Firearm
+District of Columbia,2001,1,Firearm
+District of Columbia,2002,252,Firearm
+District of Columbia,2003,243,Firearm
+District of Columbia,2004,189,Firearm
+Florida,1998,1086,Firearm
+Florida,1999,916,Firearm
+Florida,2000,815,Firearm
+Florida,2001,927,Firearm
+Florida,2002,960,Firearm
+Florida,2003,976,Firearm
+Florida,2004,1011,Firearm
+Georgia,1998,531,Firearm
+Georgia,1999,527,Firearm
+Georgia,2000,508,Firearm
+Georgia,2001,575,Firearm
+Georgia,2002,603,Firearm
+Georgia,2003,643,Firearm
+Georgia,2004,549,Firearm
+Hawaii,1998,27,Interpersonal Violence
+Hawaii,1999,43,Firearm
+Hawaii,2000,35,Interpersonal Violence
+Hawaii,2001,36,Interpersonal Violence
+Hawaii,2002,25,Firearm
+Hawaii,2003,23,Firearm
+Hawaii,2004,34,Knife or cutting instrument
+Idaho,1998,36,Firearm
+Idaho,1999,26,Firearm
+Idaho,2000,17,Firearm
+Idaho,2001,33,Firearm
+Idaho,2002,36,Firearm
+Idaho,2003,28,Firearm
+Idaho,2004,32,Firearm
+Illinois,1998,766,Firearm
+Illinois,1999,688,Firearm
+Illinois,2000,668,Firearm
+Illinois,2001,705,Other
+Illinois,2002,687,Firearm
+Illinois,2003,644,Firearm
+Illinois,2004,485,Firearm
+Indiana,1998,408,Firearm
+Indiana,1999,335,Firearm
+Indiana,2000,308,Firearm
+Indiana,2001,381,Firearm
+Indiana,2002,335,Firearm
+Indiana,2003,330,Firearm
+Indiana,2004,308,Firearm
+Iowa,1998,49,Firearm
+Iowa,1999,52,Firearm
+Iowa,2000,52,Firearm
+Iowa,2001,53,Firearm
+Iowa,2002,49,Firearm
+Iowa,2003,51,Firearm
+Iowa,2004,47,Firearm
+Kansas,2000,49,Firearm
+Kansas,2001,80,Firearm
+Kansas,2002,75,Firearm
+Kansas,2003,93,Firearm
+Kansas,2004,75,Firearm
+Kentucky,1998,124,Firearm
+Kentucky,1999,84,Firearm
+Kentucky,2000,73,Firearm
+Kentucky,2001,81,Firearm
+Kentucky,2002,87,Firearm
+Kentucky,2003,82,Firearm
+Kentucky,2004,219,Firearm
+Louisiana,1998,567,Firearm
+Louisiana,1999,482,Firearm
+Louisiana,2000,558,Firearm
+Louisiana,2001,511,Firearm
+Louisiana,2002,577,Firearm
+Louisiana,2003,601,Firearm
+Louisiana,2004,586,Firearm
+Maine,1998,27,Interpersonal Violence
+Maine,1999,26,Firearm
+Maine,2000,15,Firearm
+Maine,2001,21,Firearm
+Maine,2002,16,Firearm
+Maine,2003,16,Firearm
+Maine,2004,18,Firearm
+Maryland,1998,528,Firearm
+Maryland,1999,442,Firearm
+Maryland,2000,462,Firearm
+Maryland,2001,485,Firearm
+Maryland,2002,546,Firearm
+Maryland,2003,542,Firearm
+Maryland,2004,539,Firearm
+Massachusetts,1998,123,Firearm
+Massachusetts,1999,119,Firearm
+Massachusetts,2000,119,Firearm
+Massachusetts,2001,151,Firearm
+Massachusetts,2002,171,Firearm
+Massachusetts,2003,143,Firearm
+Massachusetts,2004,172,Firearm
+Michigan,1998,727,Firearm
+Michigan,1999,737,Firearm
+Michigan,2000,694,Firearm
+Michigan,2001,674,Firearm
+Michigan,2002,694,Firearm
+Michigan,2003,636,Firearm
+Michigan,2004,663,Firearm
+Minnesota,1998,117,Firearm
+Minnesota,1999,131,Firearm
+Minnesota,2000,113,Firearm
+Minnesota,2001,120,Firearm
+Minnesota,2002,116,Firearm
+Minnesota,2003,126,Firearm
+Minnesota,2004,121,Firearm
+Mississippi,1998,185,Firearm
+Mississippi,1999,151,Firearm
+Mississippi,2000,174,Firearm
+Mississippi,2001,193,Firearm
+Mississippi,2002,194,Firearm
+Mississippi,2003,191,Firearm
+Mississippi,2004,181,Firearm
+Missouri,1998,387,Firearm
+Missouri,1999,341,Firearm
+Missouri,2000,343,Firearm
+Missouri,2001,396,Firearm
+Missouri,2002,352,Firearm
+Missouri,2003,323,Firearm
+Missouri,2004,377,Firearm
+Montana,1998,11,Firearm
+Montana,1999,11,Firearm
+Montana,2000,12,Firearm
+Montana,2001,22,Firearm
+Montana,2002,13,Firearm
+Montana,2003,22,Firearm
+Montana,2004,29,Firearm
+Nebraska,1998,25,Firearm
+Nebraska,1999,26,Firearm
+Nebraska,2000,29,Firearm
+Nebraska,2001,19,Firearm
+Nebraska,2002,23,Firearm
+Nebraska,2003,21,Interpersonal Violence
+Nebraska,2004,30,Firearm
+Nevada,1998,184,Firearm
+Nevada,1999,174,Firearm
+Nevada,2000,135,Firearm
+Nevada,2001,197,Firearm
+Nevada,2002,191,Firearm
+Nevada,2003,202,Firearm
+Nevada,2004,187,Firearm
+New Hampshire,1998,16,Interpersonal Violence
+New Hampshire,1999,20,Knife or cutting instrument
+New Hampshire,2000,15,Firearm
+New Hampshire,2001,19,Firearm
+New Hampshire,2002,14,Firearm
+New Hampshire,2003,11,Firearm
+New Hampshire,2004,14,Firearm
+New Jersey,1998,334,Firearm
+New Jersey,1999,296,Firearm
+New Jersey,2000,298,Firearm
+New Jersey,2001,355,Firearm
+New Jersey,2002,349,Firearm
+New Jersey,2003,421,Firearm
+New Jersey,2004,418,Firearm
+New Mexico,1998,157,Firearm
+New Mexico,1999,147,Firearm
+New Mexico,2000,126,Firearm
+New Mexico,2001,98,Firearm
+New Mexico,2002,149,Firearm
+New Mexico,2003,113,Firearm
+New Mexico,2004,158,Firearm
+New York,1998,931,Firearm
+New York,1999,925,Firearm
+New York,2000,956,Firearm
+New York,2001,949,Firearm
+New York,2002,903,Firearm
+New York,2003,917,Firearm
+New York,2004,902,Firearm
+North Carolina,1998,633,Firearm
+North Carolina,1999,575,Firearm
+North Carolina,2000,570,Firearm
+North Carolina,2001,543,Firearm
+North Carolina,2002,572,Firearm
+North Carolina,2003,521,Firearm
+North Carolina,2004,503,Firearm
+North Dakota,1998,7,Firearm
+North Dakota,1999,7,Firearm
+North Dakota,2000,4,Firearm
+North Dakota,2001,9,Firearm
+North Dakota,2002,5,Firearm
+North Dakota,2003,8,Firearm
+North Dakota,2004,8,Firearm
+Ohio,1998,377,Firearm
+Ohio,1999,372,Firearm
+Ohio,2000,372,Firearm
+Ohio,2001,452,Firearm
+Ohio,2002,504,Firearm
+Ohio,2003,497,Firearm
+Ohio,2004,495,Firearm
+Oklahoma,1998,215,Firearm
+Oklahoma,1999,254,Firearm
+Oklahoma,2000,202,Firearm
+Oklahoma,2001,215,Firearm
+Oklahoma,2002,186,Firearm
+Oklahoma,2003,232,Firearm
+Oklahoma,2004,205,Firearm
+Oregon,1998,140,Firearm
+Oregon,1999,95,Firearm
+Oregon,2000,71,Firearm
+Oregon,2001,102,Firearm
+Oregon,2002,76,Firearm
+Oregon,2003,78,Firearm
+Oregon,2004,105,Firearm
+Pennsylvania,1998,628,Firearm
+Pennsylvania,1999,596,Firearm
+Pennsylvania,2000,604,Firearm
+Pennsylvania,2001,657,Firearm
+Pennsylvania,2002,625,Firearm
+Pennsylvania,2003,661,Firearm
+Pennsylvania,2004,696,Firearm
+Rhodes Island,1998,25,Firearm
+Rhodes Island,1999,36,Firearm
+Rhodes Island,2000,45,Firearm
+Rhodes Island,2001,40,Firearm
+Rhodes Island,2002,41,Firearm
+Rhodes Island,2003,25,Firearm
+Rhodes Island,2004,30,Firearm
+South Carolina,1998,310,Firearm
+South Carolina,1999,278,Firearm
+South Carolina,2000,288,Firearm
+South Carolina,2001,333,Firearm
+South Carolina,2002,311,Firearm
+South Carolina,2003,308,Firearm
+South Carolina,2004,293,Firearm
+South Dakota,1998,6,Firearm
+South Dakota,1999,14,Firearm
+South Dakota,2000,8,Interpersonal Violence
+South Dakota,2001,10,Firearm
+South Dakota,2002,12,Other
+South Dakota,2003,11,Knife or cutting instrument
+South Dakota,2004,16,Firearm
+Tennessee,1998,436,Firearm
+Tennessee,1999,411,Firearm
+Tennessee,2000,435,Firearm
+Tennessee,2001,444,Firearm
+Tennessee,2002,457,Firearm
+Tennessee,2003,426,Firearm
+Tennessee,2004,382,Firearm
+Texas,1998,1448,Firearm
+Texas,1999,1268,Firearm
+Texas,2000,1308,Firearm
+Texas,2001,1387,Firearm
+Texas,2002,1383,Firearm
+Texas,2003,1510,Firearm
+Texas,2004,1431,Firearm
+Utah,1998,66,Firearm
+Utah,1999,58,Firearm
+Utah,2000,54,Firearm
+Utah,2001,82,Firearm
+Utah,2002,57,Firearm
+Utah,2003,61,Firearm
+Utah,2004,58,Firearm
+Vermont,1998,12,Interpersonal Violence
+Vermont,1999,20,Firearm
+Vermont,2000,10,Knife or cutting instrument
+Vermont,2001,7,Firearm
+Vermont,2002,13,Firearm
+Vermont,2003,15,Firearm
+Vermont,2004,16,Knife or cutting instrument
+Virginia,1998,421,Firearm
+Virginia,1999,376,Firearm
+Virginia,2000,398,Firearm
+Virginia,2001,377,Firearm
+Virginia,2002,391,Firearm
+Virginia,2003,419,Firearm
+Virginia,2004,392,Firearm
+Washington,1998,215,Firearm
+Washington,1999,182,Firearm
+Washington,2000,203,Firearm
+Washington,2001,199,Firearm
+Washington,2002,208,Firearm
+Washington,2003,204,Firearm
+Washington,2004,208,Firearm
+West Virginia,1998,81,Firearm
+West Virginia,1999,69,Firearm
+West Virginia,2000,64,Firearm
+West Virginia,2001,40,Firearm
+West Virginia,2002,76,Firearm
+West Virginia,2003,65,Firearm
+West Virginia,2004,66,Firearm
+Wisconsin,1999,200,Firearm
+Wisconsin,2000,172,Firearm
+Wisconsin,2001,198,Firearm
+Wisconsin,2002,166,Firearm
+Wisconsin,2003,193,Firearm
+Wisconsin,2004,160,Firearm
+Wyoming,1998,17,Firearm
+Wyoming,1999,13,Interpersonal Violence
+Wyoming,2000,12,Interpersonal Violence
+Wyoming,2001,11,Firearm
+Wyoming,2002,16,Firearm
+Wyoming,2003,17,Firearm
+Wyoming,2004,13,Firearm
