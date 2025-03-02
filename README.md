@@ -12,3 +12,11 @@ https://www.dropbox.com/scl/fi/0iit58hu7dcwzc0ecpz2i/SHR65_23.csv?rlkey=gad3m6vk
 
 
 Population Dataset: https://www.census.gov/data/tables/2000/dec/2000-resident-population.html
+
+Guide to Files in this Repo:
+
+Proj.csv <- The cleaned version of the Original DataSet on murders in the US
+
+Tab02.xls <- The Original version of the dataset on the population of each US State. This file had to be manually updated in excel (due to formattting issues), and then saved as a new CSV (which is Pop_data.csv)
+
+Pop_data.csv <-The cleaned version of the Original Dataset on the population of each US State
