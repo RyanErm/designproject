@@ -1,0 +1,154 @@
+---
+title: "D_Midterm_Ermovick"
+format: html
+editor: visual
+---
+```{r}
+#load required packages
+library(gapminder)
+library (ggplot2)
+library(dplyr)
+library(tidyverse)
+```
+
+```{r}
+
+#download lat and long data for states
+US<-map_data("state")
+#Uppercase all of the states
+US_correct1<-mutate(US, STATE = toupper(region))
+
+#download data from about the populations of states
+Pop_data<-read.csv("Pop_data.csv")
+#clean the population column by getting rid of commas
+Pop_data$Population <- gsub(",", "", Pop_data$Population)
+#mutaate the state column so that there is not white space, and the population variable is numeric
+Pop_data2<-mutate(Pop_data, STATE = trimws(toupper(State)), Population1=as.numeric(Population))
+
+#download cleaned data 
+US_data <-read.csv("Proj.csv")
+#subset the column again by year
+US_data1<-filter(US_data, Year==2000)
+#mutate the data so that the state column is all Uppercase
+US_data2<-mutate(US_data1, STATE = toupper(State))
+
+
+
+#join the Cleaned data as well as the population data
+data<-full_join(US_data2, Pop_data2, by = "STATE")
+#join Clean/Population data with lattitude and longitude data
+State_data<-full_join(US_correct1, data, by = "STATE")
+
+
+#Create a data frame including a column with murder per person
+State_data2<-mutate(State_data, murderperperson=Count/Population1)
+
+
+```
+
+```{r}
+#graph of the United states
+#shading is the most common weapon used
+#alpha fill level is the murder per person rate
+#viridis scale is used as it is best for people who are color blind
+ggplot(State_data2, 
+       aes(x = long, y = lat, group = group, fill = Weapon, alpha = murderperperson)
+       )+ geom_polygon( color = "black")+theme_classic()+
+        theme(axis.title = element_blank(), axis.ticks = element_blank(), axis.text = element_blank(),axis.line = element_blank())+ scale_fill_viridis_d() + ggtitle("Murder Rate Per Person in the US: 2000 (Pre-9/11)") + labs(alpha = "Murder Rate Per Person") + labs(fill = "Most Common Weapon Used")
+          
+
+```
+
+
+
+```{r}
+
+#download lat and long data for states
+US<-map_data("state")
+#Uppercase all of the states
+US_correct1<-mutate(US, STATE = toupper(region))
+
+#download data from about the populations of states
+Pop_data<-read.csv("Pop_data.csv")
+#clean the population column by getting rid of commas
+Pop_data$Population <- gsub(",", "", Pop_data$Population)
+#mutaate the state column so that there is not white space, and the population variable is numeric
+Pop_data2<-mutate(Pop_data, STATE = trimws(toupper(State)), Population1=as.numeric(Population))
+
+#download cleaned data 
+US_data <-read.csv("Proj.csv")
+#subset the column again by year
+US_data1<-filter(US_data, Year==2001)
+#mutate the data so that the state column is all Uppercase
+US_data2<-mutate(US_data1, STATE = toupper(State))
+
+
+
+#join the Cleaned data as well as the population data
+data<-full_join(US_data2, Pop_data2, by = "STATE")
+#join Clean/Population data with lattitude and longitude data
+State_data<-full_join(US_correct1, data, by = "STATE")
+
+
+#Create a data frame including a column with murder per person
+State_data2<-mutate(State_data, murderperperson=Count/Population1)
+
+
+```
+
+```{r}
+ggplot(State_data2, 
+       aes(x = long, y = lat, group = group, fill = Weapon, alpha = murderperperson)
+       )+ geom_polygon( color = "black")+theme_classic()+
+        theme(axis.title = element_blank(), axis.ticks = element_blank(), axis.text = element_blank(),             axis.line = element_blank())+ scale_fill_viridis_d() + ggtitle("Murder Rate Per Person in the US: 2001 (Year of 9/11)") + labs(alpha = "Murder Rate Per Person") + labs(fill = "Most Common Weapon Used")
+          
+
+```
+
+
+
+
+```{r}
+
+#download lat and long data for states
+US<-map_data("state")
+#Uppercase all of the states
+US_correct1<-mutate(US, STATE = toupper(region))
+
+#download data from about the populations of states
+Pop_data<-read.csv("Pop_data.csv")
+#clean the population column by getting rid of commas
+Pop_data$Population <- gsub(",", "", Pop_data$Population)
+#mutaate the state column so that there is not white space, and the population variable is numeric
+Pop_data2<-mutate(Pop_data, STATE = trimws(toupper(State)), Population1=as.numeric(Population))
+
+#download cleaned data 
+US_data <-read.csv("Proj.csv")
+#subset the column again by year
+US_data1<-filter(US_data, Year==2002)
+#mutate the data so that the state column is all Uppercase
+US_data2<-mutate(US_data1, STATE = toupper(State))
+
+
+
+#join the Cleaned data as well as the population data
+data<-full_join(US_data2, Pop_data2, by = "STATE")
+#join Clean/Population data with lattitude and longitude data
+State_data<-full_join(US_correct1, data, by = "STATE")
+
+
+#Create a data frame including a column with murder per person
+State_data2<-mutate(State_data, murderperperson=Count/Population1)
+
+
+```
+
+```{r}
+ggplot(State_data2, 
+       aes(x = long, y = lat, group = group, fill = Weapon, alpha = murderperperson)
+       )+ geom_polygon( color = "black")+theme_classic()+
+        theme(axis.title = element_blank(), axis.ticks = element_blank(), axis.text = element_blank(),             axis.line = element_blank())+ scale_fill_viridis_d()+ ggtitle("Murder Rate Per Person in the US: 2002 (Post-9/11)") + labs(alpha = "Murder Rate Per Person") + labs(fill = "Most Common Weapon Used") 
+
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
