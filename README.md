@@ -20,3 +20,5 @@ Proj.csv <- The cleaned version of the Original DataSet on murders in the US
 Tab02.xls <- The Original version of the dataset on the population of each US State. This file had to be manually updated in excel (due to formattting issues), and then saved as a new CSV (which is Pop_data.csv)
 
 Pop_data.csv <-The cleaned version of the Original Dataset on the population of each US State
+
+inital (1).ipynb <- File to clean the Murder CSV
